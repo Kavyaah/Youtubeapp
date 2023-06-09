@@ -1,0 +1,24 @@
+.categories{
+    display: flex;
+  
+}
+
+ul{
+    display: flex;
+    text-decoration: none;
+}
+
+.categories ul li{
+list-style: none;
+}
+
+.categories a{
+    padding: 5px;
+    padding-right: 10px;
+   border-spacing: 10px;
+    color: black;
+    background-color: lightgray;
+    margin-left: 20px;
+    border-radius: 10px;
+   align-items: start;
+}
